@@ -1,0 +1,206 @@
+{
+ "Blogs":  const blogs = [
+    {
+      id: 1,
+      title: "5 Things You Can Do About The Impostor Syndrome",
+      description: `  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut
+                    a labore suscipit omnis, libero officiis nobis ea quam neque
+                    molestiae ipsa ex culpa at sint perferendis deserunt dicta
+                    perspiciatis vitae? Lorem ipsum dolor sit amet consectetur
+                    adipisicing elit. Natus repellendus ea nostrum quidem iste
+                    dignissimos quam rerum blanditiis, aperiam eveniet doloribus
+                    consectetur itaque voluptatem dolore, ratione earum laborum
+                    provident necessitatibus. Lorem ipsum dolor sit amet
+                    consectetur adipisicing elit. Natus repellendus ea nostrum
+                    quidem iste dignissimos quam rerum blanditiis, aperiam
+                    eveniet doloribus consectetur itaque voluptatem dolore,
+                    ratione earum laborum provident necessitatibus. Lorem ipsum
+                    dolor sit amet consectetur adipisicing elit. Natus
+                    repellendus ea nostrum quidem iste dignissimos quam rerum
+                    blanditiis, aperiam eveniet doloribus consectetur itaque
+                    voluptatem dolore, ratione earum laborum provident
+                    necessitatibus.
+            `,
+      created_at: "Mar 3, 2020",
+      category: "Marketing/Copywriting",
+      url: "#",
+      comments: [
+        {
+          id: 17,
+          username: "user1",
+          created_at: "July 19, 2020 at 5:17 pm",
+          comment: `This helped. A lot. (I hope you’re not thinking that this comment’s ‘a hype.’) LOL.
+Thanks, Khendra!`,
+        },
+        {
+          id: 18,
+          username: "admin",
+          created_at: "July 25, 2020 at 5:34 pm",
+          comment: `I’m super glad it helped. I know it’s not hype. Lol.`,
+        },
+      ],
+    },
+    {
+      id: 2,
+      title: "7 Practices That Mold Persuasion Masters",
+      description: `  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut
+                    a labore suscipit omnis, libero officiis nobis ea quam neque
+                    molestiae ipsa ex culpa at sint perferendis deserunt dicta
+                    perspiciatis vitae? Lorem ipsum dolor sit amet consectetur
+                    adipisicing elit. Natus repellendus ea nostrum quidem iste
+                    dignissimos quam rerum blanditiis, aperiam eveniet doloribus
+                    consectetur itaque voluptatem dolore, ratione earum laborum
+                    provident necessitatibus. Lorem ipsum dolor sit amet
+                    consectetur adipisicing elit. Natus repellendus ea nostrum
+                    quidem iste dignissimos quam rerum blanditiis, aperiam
+                    eveniet doloribus consectetur itaque voluptatem dolore,
+                    ratione earum laborum provident necessitatibus. Lorem ipsum
+                    dolor sit amet consectetur adipisicing elit. Natus
+                    repellendus ea nostrum quidem iste dignissimos quam rerum
+                    blanditiis, aperiam eveniet doloribus consectetur itaque
+                    voluptatem dolore, ratione earum laborum provident
+                    necessitatibus. `,
+      created_at: "Mar 13, 2020",
+      category: "Marketing/Copywriting",
+      url: "#",
+      comments: [
+        {
+          id: 19,
+          username: "user1",
+          created_at: "July 19, 2020 at 5:17 pm",
+          comment: `This helped. A lot. (I hope you’re not thinking that this comment’s ‘a hype.’) LOL.
+Thanks, Khendra!`,
+        },
+        {
+          id: 20,
+          username: "admin",
+          created_at: "July 25, 2020 at 5:34 pm",
+          comment: `I’m super glad it helped. I know it’s not hype. Lol.`,
+        },
+      ],
+    },
+    {
+      id: 3,
+      title: "5 Things You Can Do About The Impostor Syndrome",
+      description: `
+                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut
+                    a labore suscipit omnis, libero officiis nobis ea quam neque
+                    molestiae ipsa ex culpa at sint perferendis deserunt dicta
+                    perspiciatis vitae? Lorem ipsum dolor sit amet consectetur
+                    adipisicing elit. Natus repellendus ea nostrum quidem iste
+                    dignissimos quam rerum blanditiis, aperiam eveniet doloribus
+                    consectetur itaque voluptatem dolore, ratione earum laborum
+                    provident necessitatibus. Lorem ipsum dolor sit amet
+                    consectetur adipisicing elit. Natus repellendus ea nostrum
+                    quidem iste dignissimos quam rerum blanditiis, aperiam
+                    eveniet doloribus consectetur itaque voluptatem dolore,
+                    ratione earum laborum provident necessitatibus. Lorem ipsum
+                    dolor sit amet consectetur adipisicing elit. Natus
+                    repellendus ea nostrum quidem iste dignissimos quam rerum
+                    blanditiis, aperiam eveniet doloribus consectetur itaque
+                    voluptatem dolore, ratione earum laborum provident
+                    necessitatibus.
+            `,
+      created_at: "Apr 13, 2020",
+      category: "Becoming a Efficient Person / Motivation",
+      url: "#",
+      comments: [
+        {
+          id: 11,
+          username: "user1",
+          created_at: "July 19, 2020 at 5:17 pm",
+          comment: `This helped. A lot. (I hope you’re not thinking that this comment’s ‘a hype.’) LOL.
+Thanks, Khendra!`,
+        },
+        {
+          id: 12,
+          username: "admin",
+          created_at: "July 25, 2020 at 5:34 pm",
+          comment: `I’m super glad it helped. I know it’s not hype. Lol.`,
+        },
+      ],
+    },
+    {
+      id: 4,
+      title: "3 Proven ways marketing boosts your business",
+      description: `
+                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut
+                    a labore suscipit omnis, libero officiis nobis ea quam neque
+                    molestiae ipsa ex culpa at sint perferendis deserunt dicta
+                    perspiciatis vitae? Lorem ipsum dolor sit amet consectetur
+                    adipisicing elit. Natus repellendus ea nostrum quidem iste
+                    dignissimos quam rerum blanditiis, aperiam eveniet doloribus
+                    consectetur itaque voluptatem dolore, ratione earum laborum
+                    provident necessitatibus. Lorem ipsum dolor sit amet
+                    consectetur adipisicing elit. Natus repellendus ea nostrum
+                    quidem iste dignissimos quam rerum blanditiis, aperiam
+                    eveniet doloribus consectetur itaque voluptatem dolore,
+                    ratione earum laborum provident necessitatibus. Lorem ipsum
+                    dolor sit amet consectetur adipisicing elit. Natus
+                    repellendus ea nostrum quidem iste dignissimos quam rerum
+                    blanditiis, aperiam eveniet doloribus consectetur itaque
+                    voluptatem dolore, ratione earum laborum provident
+                    necessitatibus.
+            `,
+      created_at: "Apr 20, 2020",
+      category: "Becoming a Efficient Person / Motivation",
+      url: "#",
+      comments: [
+        {
+          id: 13,
+          username: "user1",
+          created_at: "July 19, 2020 at 5:17 pm",
+          comment: `This helped. A lot. (I hope you’re not thinking that this comment’s ‘a hype.’) LOL.
+Thanks, Khendra!`,
+        },
+        {
+          id: 14,
+          username: "admin",
+          created_at: "July 25, 2020 at 5:34 pm",
+          comment: `I’m super glad it helped. I know it’s not hype. Lol.`,
+        },
+      ],
+    },
+    {
+      id: 5,
+      title: "What copywriting is and what it is not",
+      description: `
+                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut
+                    a labore suscipit omnis, libero officiis nobis ea quam neque
+                    molestiae ipsa ex culpa at sint perferendis deserunt dicta
+                    perspiciatis vitae? Lorem ipsum dolor sit amet consectetur
+                    adipisicing elit. Natus repellendus ea nostrum quidem iste
+                    dignissimos quam rerum blanditiis, aperiam eveniet doloribus
+                    consectetur itaque voluptatem dolore, ratione earum laborum
+                    provident necessitatibus. Lorem ipsum dolor sit amet
+                    consectetur adipisicing elit. Natus repellendus ea nostrum
+                    quidem iste dignissimos quam rerum blanditiis, aperiam
+                    eveniet doloribus consectetur itaque voluptatem dolore,
+                    ratione earum laborum provident necessitatibus. Lorem ipsum
+                    dolor sit amet consectetur adipisicing elit. Natus
+                    repellendus ea nostrum quidem iste dignissimos quam rerum
+                    blanditiis, aperiam eveniet doloribus consectetur itaque
+                    voluptatem dolore, ratione earum laborum provident
+                    necessitatibus.
+            `,
+      created_at: "Mar 28, 2020",
+      category: "Becoming a Efficient Person / Motivation",
+      url: "#",
+      comments: [
+        {
+          id: 15,
+          username: "user1",
+          created_at: "July 19, 2020 at 5:17 pm",
+          comment: `This helped. A lot. (I hope you’re not thinking that this comment’s ‘a hype.’) LOL.
+Thanks, Khendra!`,
+        },
+        {
+          id: 16,
+          username: "admin",
+          created_at: "July 25, 2020 at 5:34 pm",
+          comment: `I’m super glad it helped. I know it’s not hype. Lol.`,
+        },
+      ],
+    },
+  ]
+  }
